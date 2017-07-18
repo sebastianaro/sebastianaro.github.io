@@ -359,7 +359,8 @@ pre {
 
 .post-content {
   margin-bottom: 30px;
-  font-family: 'Aleo'; }
+  font-family: 'Aleo';
+  font-weight:300; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
