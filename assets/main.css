@@ -10,7 +10,7 @@ dl, dd, ol, ul, figure {
 @font-face {
   font-family: 'Aleo';
   src: url("font/aleo-light-webfont.eot");
-  src: url("font/aleo-light-webfont.eot?#iefix") format("embedded-opentype"), url("font//aleo-light-webfont.woff") format("woff");
+  src: url("font/aleo-light-webfont.eot?#iefix") format("embedded-opentype"), url("font/aleo-light-webfont.woff") format("woff");
   font-weight: 300;
   font-style: normal; }
 /**
