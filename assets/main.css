@@ -7,6 +7,12 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0; }
 
+@font-face {
+  font-family: 'Aleo';
+  src: url("font/aleo-light-webfont.eot");
+  src: url("font/aleo-light-webfont.eot?#iefix") format("embedded-opentype"), url("font//aleo-light-webfont.woff") format("woff");
+  font-weight: 300;
+  font-style: normal; }
 /**
  * Basic styling
  */
@@ -92,14 +98,6 @@ blockquote {
   blockquote > :last-child {
     margin-bottom: 0; }
 
-/** webfont Aleo
-*/
-@font-face {
-  font-family: 'Aleo';
-  src: url("../fonts/aleo-light-webfont.eot");
-  src: url("../fonts/aleo-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/aleo-light-webfont.woff2") format("woff2"), url("../fonts/aleo-light-webfont.woff") format("woff"), url("../fonts/aleo-light-webfont.ttf") format("truetype");
-  font-weight: 300;
-  font-style: normal; }
 /**
  * Code formatting
  */
