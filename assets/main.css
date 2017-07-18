@@ -123,16 +123,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(900px - (30px * 2));
-  max-width: calc(900px - (30px * 2));
+  max-width: -webkit-calc(1275px - (30px * 2));
+  max-width: calc(1275px - (30px * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px; }
   @media screen and (max-width: 800px) {
     .wrapper {
-      max-width: -webkit-calc(900px - (30px));
-      max-width: calc(900px - (30px));
+      max-width: -webkit-calc(1275px - (30px));
+      max-width: calc(1275px - (30px));
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -304,12 +304,29 @@ pre {
   line-height: 0.85;
   font-kerning: normal;
   color: #213346;
-  font-family: 'Aleo';
+  font-family: "Rajdhani", sans-serif;
   font-size: 96px; }
   @media screen and (max-width: 800px) {
     .page-home {
       padding-top: 0;
       font-size: 64px; } }
+
+.page-second {
+  padding-left: 40%;
+  margin-top: -10%;
+  font-weight: 300;
+  line-height: 1.25;
+  font-kerning: normal;
+  color: black;
+  font-family: 'Aleo';
+  font-size: 40px; }
+  @media screen and (max-width: 800px) {
+    .page-second {
+      padding-top: 0;
+      padding-left: 0;
+      margin-top: 2%;
+      padding-right: 15%;
+      font-size: 24px; } }
 
 .post-list {
   margin-left: 0;
@@ -342,7 +359,7 @@ pre {
 
 .post-content {
   margin-bottom: 30px;
-  font-family: "Georgia", serif; }
+  font-family: 'Aleo'; }
   .post-content h2 {
     font-size: 32px; }
     @media screen and (max-width: 800px) {
