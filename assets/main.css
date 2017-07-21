@@ -19,6 +19,12 @@ dl, dd, ol, ul, figure {
   src: url("font/aleo-bold-webfont.eot?#iefix") format("embedded-opentype"), url("font/aleo-bold-webfont.woff") format("woff");
   font-weight: 700;
   font-style: normal; }
+@font-face {
+  font-family: 'Aleo';
+  src: url("font/aleo-regular-webfont.eot");
+  src: url("font/aleo-regular-webfont.eot?#iefix") format("embedded-opentype"), url("font/aleo-regular-webfont.woff") format("woff");
+  font-weight: 400;
+  font-style: normal; }
 /**
  * Basic styling
  */
@@ -73,11 +79,19 @@ li > ol {
  * Headings
  */
 h1, h2 {
-  font-weight: 400; }
-
-h3, h4, h5, h6 {
   font-weight: 700;
-  font-family: 'Aleo'; }
+  color: #213346; }
+
+h3 {
+  font-weight: 400;
+  font-family: 'Aleo';
+  margin-bottom: 0; }
+
+h4, h5, h6 {
+  font-weight: 400;
+  font-family: 'Aleo';
+  margin-bottom: 0;
+  color: #424242; }
 
 /**
  * Links
@@ -369,9 +383,11 @@ pre {
   height: auto; }
 
 .desc {
-  padding: 15px;
-  padding-left: 0;
+  padding: 10px;
+  padding-left: 5px;
   text-align: left;
+  font-family: 'Aleo';
+  font-weight: 300;
   color: #424242; }
 
 * {
@@ -423,7 +439,7 @@ pre {
   padding-top: 10%; }
   @media screen and (max-width: 800px) {
     .post-title {
-      font-size: 24px; } }
+      font-size: 32px; } }
 
 .post-content {
   margin-bottom: 30px;
@@ -435,16 +451,16 @@ pre {
       .post-content h2 {
         font-size: 28px; } }
   .post-content h3 {
-    font-size: 26px;
-    margin-bottom: 1; }
+    font-size: 22.4px;
+    margin-bottom: 0; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
-        font-size: 22px; } }
+        font-size: 19.2px; } }
   .post-content h4 {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18px; } }
+        font-size: 20px; } }
 
 /**
  * Syntax highlighting styles
