@@ -1,17 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-28T14:42:20-04:00</updated><id>http://localhost:4000/</id><title type="html">Sebastian Arteaga | Design</title><subtitle>Sebastian Arteaga Portfolio UX Designer UI Designer Visual Designer Graphic Design Branding  
-</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/projects/welcometojekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-07-19T00:00:00-04:00</published><updated>2017-07-19T00:00:00-04:00</updated><id>http://localhost:4000/projects/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/projects/welcometojekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-03T14:54:20-04:00</updated><id>http://localhost:4000/</id><title type="html">Sebastian Arteaga | Design</title><subtitle>Sebastian Arteaga Portfolio UX Designer UI Designer Visual Designer Graphic Design Branding  
+</subtitle><entry><title type="html">Caslon &amp;amp; Didot Type Poster</title><link href="http://localhost:4000/projects/typographyposter/" rel="alternate" type="text/html" title="Caslon &amp; Didot Type Poster" /><published>2017-07-21T00:00:00-04:00</published><updated>2017-07-21T00:00:00-04:00</updated><id>http://localhost:4000/projects/typography%20Poster</id><content type="html" xml:base="http://localhost:4000/projects/typographyposter/">&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslon-1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslonicon-2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslonicon-3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslonicon-4.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslonicon-5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/caslonicon-6.jpg&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Bocadillos Cooking Book</title><link href="http://localhost:4000/projects/boacadillosbook/" rel="alternate" type="text/html" title="Bocadillos Cooking Book" /><published>2017-07-20T00:00:00-04:00</published><updated>2017-07-20T00:00:00-04:00</updated><id>http://localhost:4000/projects/bocadillos-book</id><content type="html" xml:base="http://localhost:4000/projects/boacadillosbook/">&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-4.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-6.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-7.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bocadillos-8.jpg&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Short Stories Book Cover</title><link href="http://localhost:4000/projects/bookcover/" rel="alternate" type="text/html" title="Short Stories Book Cover" /><published>2017-07-19T00:00:00-04:00</published><updated>2017-07-19T00:00:00-04:00</updated><id>http://localhost:4000/projects/book-cover</id><content type="html" xml:base="http://localhost:4000/projects/bookcover/">&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-4.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/bookcover-6.jpg&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Consilium Magazine</title><link href="http://localhost:4000/projects/consilium-magazine/" rel="alternate" type="text/html" title="Consilium Magazine" /><published>2017-07-18T00:00:00-04:00</published><updated>2017-07-18T00:00:00-04:00</updated><id>http://localhost:4000/projects/consilium-magazine</id><content type="html" xml:base="http://localhost:4000/projects/consilium-magazine/">&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/consilium-1.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h4 id=&quot;the-research&quot;&gt;The Research&lt;/h4&gt;
+&lt;p&gt;After deciding on the subject of the magazine, and understanding that this magazine needed to have a very useful layout. The research concentrated on what the best and most avant-garde design magazines were doing around the world. The different uses of typography, the layout of pictures, and color.&lt;/p&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/researchmag.jpg&quot; /&gt;&lt;/div&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4 id=&quot;the-design&quot;&gt;The Design&lt;/h4&gt;
+&lt;p&gt;In order to design the layout of a magazine, it was important to understand the content, and have a clear focus on what kind of editorial it was going to have. Consilium is a design magazine , that is why the layout is picture centered, the typography supports the overall layout. A color, will be pulled from the cover, which will inform the different department titles and pull quotes, and it will change from issue to issue depending on the cover picture. The features, will do the same within their pages, having the main visually attractive color, bleed through the title, the subheads, and quotes.&lt;/p&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/consilium-4.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/consilium-3.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/consilium-5.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/consilium-2.jpg&quot; /&gt;&lt;/div&gt;
+&lt;h5 id=&quot;the-typography&quot;&gt;THE TYPOGRAPHY&lt;/h5&gt;
+&lt;p&gt;Considering that the magazine needed to be designed for so small editorial staff could produce a magazine, it was important to keep costs down even with the typography. I choose these particular fonts for two reasons. The first one, they are open source fonts from Google, the same typography that they can use in print they can have a presence online and keep the same look and feel of the magazine with type. And the second, they are free, so they would keep the cost of the magazine down.  I considered that as the magazine grew, a version of the fonts could be designed later on.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;After trying many different type complements I decided on &lt;a href=&quot;https://fonts.google.com/specimen/Lato&quot; target=&quot;_blank&quot;&gt;Lato&lt;/a&gt; for the sans serif and &lt;a href=&quot;https://fonts.google.com/specimen/Arvo&quot; target=&quot;_blank&quot;&gt;Arvo&lt;/a&gt; for the serif. Lato has very big family, it would be the the text type. It can play different roles and allows the layout design to have hierarchy and contrast. Arvo, is reserved for tiles, subheads, and pull quotes. It also has different weights. It was important that the serif’s bold weight, was the closest thing to a display font, since the design called for a type that was readable on pictures, as well to command the title of a feature. Arvo’s bold weight delivered having nicely finished and strong slabs that gave it a presence on the page.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Consilium Magazine</title><link href="http://localhost:4000/projects/consilium-magazine/" rel="alternate" type="text/html" title="Consilium Magazine" /><published>2017-07-18T00:00:00-04:00</published><updated>2017-07-18T00:00:00-04:00</updated><id>http://localhost:4000/projects/consilium-magazine</id><content type="html" xml:base="http://localhost:4000/projects/consilium-magazine/">&lt;p&gt;hello world&lt;/p&gt;</content><author><name></name></author><summary type="html">hello world</summary></entry><entry><title type="html">Microsoft Garage Internship</title><link href="http://localhost:4000/projects/microsoftgarage/" rel="alternate" type="text/html" title="Microsoft Garage Internship" /><published>2017-07-17T00:00:00-04:00</published><updated>2017-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/microsoft-garage-internship</id><content type="html" xml:base="http://localhost:4000/projects/microsoftgarage/">&lt;h3&gt;&lt;img src=&quot;/assets/images/garage.png&quot; /&gt;&lt;/h3&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/type-consilium.jpg&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;The fonts complement each other in a very nice way, but they keep visual contrast. They borrow different elements from each other that makes them play nicely like the dots of ‘i’ being rounded, or the ‘e’ being almost de same. The ‘a’ and the ‘s’ share the same design finish but keeping their own personality. It is important to note, that Lato’s quote marks were properly done, and for editorial design this is key, because quotes are used throughout the publication.&lt;/p&gt;
+
+&lt;iframe style=&quot;width:100%; height:400px;&quot; src=&quot;//e.issuu.com/embed.html#27052146/51718853&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h5 id=&quot;disclaimer&quot;&gt;DISCLAIMER&lt;/h5&gt;
+&lt;p&gt;All the content in the magazine was respectfully borrowed from the following sites. They were given propper credit in the magazine. If you want to read the articles please visit the the following links. These are websites that I constantly read and admire for their content and help me be a better designer.&lt;/p&gt;
+
+&lt;p&gt;From Dazeen.com&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dezeen.com/2017/04/01/barcelona-warehouse-transformed-flexible-co-working-space-architects-designers/&quot; target=&quot;_blank&quot;&gt;Co-working space for architects and designers &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dezeen.com/2017/03/03/bartlett-school-architecture-students-self-supporting-structures-design-textiles/&quot; target=&quot;_blank&quot;&gt;A pavillion made from felt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Editor’s Letter: &lt;a href=&quot;https://www.dezeen.com/2017/04/21/design-academy-eindhoven-dead-opinion-jules-van-den-langenberg/&quot; target=&quot;_blank&quot;&gt;The world of Design needs to defend it’s indentity.&lt;/a&gt; This was a freely edited part of the text to fit the letter from the editor space.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From underconsideration.com/brandnew/&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Likes: &lt;a href=&quot;http://www.underconsideration.com/brandnew/archives/friday_likes_202.php&quot; target=&quot;_blank&quot;&gt;Friday likes 202&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From uxdesing.cc&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Back Story: &lt;a href=&quot;https://uxdesign.cc/what-makes-a-good-ux-designer-6959ab22f4e8&quot; target=&quot;_blank&quot;&gt;How to be a good UX designer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"> </summary></entry><entry><title type="html">Microsoft Garage Internship</title><link href="http://localhost:4000/projects/microsoftgarage/" rel="alternate" type="text/html" title="Microsoft Garage Internship" /><published>2017-07-17T00:00:00-04:00</published><updated>2017-07-17T00:00:00-04:00</updated><id>http://localhost:4000/projects/microsoft-garage-internship</id><content type="html" xml:base="http://localhost:4000/projects/microsoftgarage/">&lt;h3&gt;&lt;img src=&quot;/assets/images/garage.png&quot; /&gt;&lt;/h3&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -41,4 +91,13 @@
 &lt;p&gt;The welcome screen will have show the type of coffee that is currently in the keg,  and an invitation to the user to ‘please tap badge’. Once granted access, the screen will show the name of the user, and a timer. This timer has two uses, the first one, it will inform the user that the app and device are running that has not crashed. The second one, it shows that in a certain amount of time the device will lock again, and no more coffee will flow from the keg.&lt;/p&gt;
 &lt;h3&gt;&lt;img src=&quot;/assets/images/lowresmockupms.jpg&quot; /&gt;&lt;/h3&gt;
 &lt;h3&gt;&lt;img src=&quot;/assets/images/highresmockupms-1.png&quot; /&gt;&lt;/h3&gt;
-&lt;h3&gt;&lt;img src=&quot;/assets/images/highresmockupsms-2.jpg&quot; /&gt;&lt;/h3&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;h3&gt;&lt;img src=&quot;/assets/images/highresmockupsms-2.jpg&quot; /&gt;&lt;/h3&gt;
+&lt;p&gt;In order to facilitate the use of the app, an administrator side was designed to display different information that the app was tracking, such as visits and how long the keg would last. The administrator side had an option to input  or change the type of coffee in the keg, which was important because it will show in the welcome screen. The design had different revisions, trying to find the best way to display the information, and the type of information that would be important for the administrator.&lt;/p&gt;
+
+&lt;h3&gt;&lt;img src=&quot;/assets/images/highresmockupsms-3.jpg&quot; /&gt;&lt;/h3&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h4 id=&quot;the-prototype&quot;&gt;The Prototype&lt;/h4&gt;
+&lt;p&gt;My group delivered at the end of the internship a working prototype, that controlled and tracked the flow of liquid. It did so, by opening and closing a ball valve, to control the flow. The app also received information from an RFID reader.  All of this was working on Raspberry Pi running Windows IOT.&lt;/p&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/thedevice.jpg&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;gif&quot;&gt;&lt;img src=&quot;/assets/images/tag-proto-slow-loop.gif&quot; /&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
