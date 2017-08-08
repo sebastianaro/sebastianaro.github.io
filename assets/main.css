@@ -29,7 +29,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 15px/1.5 "Rajdhani", sans-serif;
+  font: 400 16px/1.5 "Rajdhani", sans-serif;
   color: #424242;
   background-color: #C6C6C6;
   -webkit-text-size-adjust: 100%;
@@ -63,7 +63,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 13.125px; }
+  font-size: 14px; }
 
 /**
  * Lists
@@ -118,7 +118,7 @@ blockquote {
   color: #828282;
   border-left: 4px solid #e8e8e8;
   padding-left: 15px;
-  font-size: 16.875px;
+  font-size: 18px;
   letter-spacing: -1px;
   font-style: italic; }
   blockquote > :last-child {
@@ -129,7 +129,7 @@ blockquote {
  */
 pre,
 code {
-  font-size: 14.0625px;
+  font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef; }
@@ -237,7 +237,7 @@ pre {
 }*/
 .site-nav {
   float: right;
-  line-height: 50.625px; }
+  line-height: 54px; }
   @media screen and (max-width: 600px) {
     .site-nav {
       margin-top: 11px; } }
@@ -313,7 +313,7 @@ pre {
   padding: 30px 0; }
 
 .footer-heading {
-  font-size: 16.875px;
+  font-size: 18px;
   margin-bottom: 15px; }
 
 .contact-list,
@@ -322,7 +322,7 @@ pre {
   margin-left: 0; }
 
 .footer-col-wrapper {
-  font-size: 14.0625px;
+  font-size: 15px;
   color: #828282;
   margin-left: -15px; }
 
@@ -332,17 +332,17 @@ pre {
   padding-left: 15px; }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (30px / 2));
-  width: calc(35% - (30px / 2)); }
+  width: -webkit-calc(50% - (30px / 2));
+  width: calc(50% - (30px / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (30px / 2));
-  width: calc(20% - (30px / 2)); }
+  width: -webkit-calc(50% - (30px / 2));
+  width: calc(50% - (30px / 2)); }
 
-.footer-col-3 {
+/*.footer-col-3 {
   width: -webkit-calc(45% - (30px / 2));
-  width: calc(45% - (30px / 2)); }
-
+  width:         calc(45% - (30px / 2));
+}*/
 @media screen and (max-width: 800px) {
   .footer-col-1,
   .footer-col-2 {
@@ -364,7 +364,7 @@ pre {
   padding: 30px 0; }
 
 .page-heading {
-  font-size: 18.75px; }
+  font-size: 20px; }
 
 .page-home {
   padding-top: 10%;
@@ -373,11 +373,11 @@ pre {
   font-kerning: normal;
   color: #213346;
   font-family: "Rajdhani", sans-serif;
-  font-size: 90px; }
+  font-size: 96px; }
   @media screen and (max-width: 600px) {
     .page-home {
       padding-top: 20%;
-      font-size: 52.5px; } }
+      font-size: 56px; } }
 
 .page-second {
   padding-left: 40%;
@@ -388,7 +388,7 @@ pre {
   font-kerning: normal;
   color: #111;
   font-family: 'Aleo';
-  font-size: 37.5px; }
+  font-size: 40px; }
   @media screen and (max-width: 600px) {
     .page-second {
       padding-top: 0;
@@ -396,7 +396,7 @@ pre {
       margin-top: 2%;
       padding-right: 15%;
       padding-bottom: 10%;
-      font-size: 18.75px; } }
+      font-size: 20px; } }
 
 .post-list {
   margin-left: 0;
@@ -405,19 +405,19 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 13.125px;
+  font-size: 14px;
   color: #828282; }
 
 .post-link {
   display: block;
-  font-size: 22.5px;
+  font-size: 24px;
   font-family: 'Aleo'; }
 
 /**
  * Page navigation
  */
 .PageNavigation {
-  font-size: 15px;
+  font-size: 16px;
   display: block;
   width: auto;
   overflow: hidden; }
@@ -498,7 +498,7 @@ pre {
   padding-left: 3px;
   font-weight: 300;
   padding-top: 15px;
-  font-size: 15px; }
+  font-size: 16px; }
 
 /**
  * Posts
@@ -507,13 +507,13 @@ pre {
   margin-bottom: 15px; }
 
 .post-title {
-  font-size: 52.5px;
+  font-size: 56px;
   letter-spacing: -1px;
   line-height: 1;
   padding-top: 10%; }
   @media screen and (max-width: 600px) {
     .post-title {
-      font-size: 33.75px; } }
+      font-size: 36px; } }
 
 .post-subtitle {
   padding-right: 40%;
@@ -538,21 +538,21 @@ pre {
       .post-content p {
         padding-right: 3%; } }
   .post-content h2 {
-    font-size: 30px; }
+    font-size: 32px; }
     @media screen and (max-width: 800px) {
       .post-content h2 {
-        font-size: 26.25px; } }
+        font-size: 28px; } }
   .post-content h3 {
-    font-size: 21px;
+    font-size: 22.4px;
     margin-bottom: 15px; }
     @media screen and (max-width: 800px) {
       .post-content h3 {
-        font-size: 18px; } }
+        font-size: 19.2px; } }
   .post-content h4 {
-    font-size: 18.75px; }
+    font-size: 20px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 18.75px; } }
+        font-size: 20px; } }
 
 /**
  * Syntax highlighting styles
