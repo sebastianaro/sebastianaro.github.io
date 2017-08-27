@@ -367,7 +367,7 @@ pre {
   font-size: 20px; }
 
 .page-home {
-  padding-top: 10%;
+  padding-top: 5%;
   font-weight: 600;
   line-height: 0.85;
   font-kerning: normal;
@@ -380,15 +380,23 @@ pre {
       font-size: 56px; } }
 
 .page-second {
-  padding-left: 40%;
+  padding-left: 0;
   padding-bottom: 5%;
-  margin-top: -10%;
-  font-weight: 300;
+  padding-right: 30%;
+  font-weight: 400;
   line-height: 1.25;
   font-kerning: normal;
-  color: #111;
+  color: #424242;
   font-family: 'Aleo';
   font-size: 40px; }
+  @media screen and (max-width: 800px) {
+    .page-second {
+      padding-top: 0;
+      padding-left: 0;
+      margin-top: 2%;
+      padding-right: 15%;
+      padding-bottom: 5%;
+      font-size: 36px; } }
   @media screen and (max-width: 600px) {
     .page-second {
       padding-top: 0;
