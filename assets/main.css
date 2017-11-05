@@ -372,7 +372,9 @@ pre {
   line-height: 0.85;
   font-kerning: normal;
   color: #213346;
-  font-family: "Rajdhani", sans-serif;
+  /*font-family:$base-font-family;*/
+  font-family: quatro, sans-serif;
+  font-style: normal;
   font-size: 96px; }
   @media screen and (max-width: 600px) {
     .page-home {
