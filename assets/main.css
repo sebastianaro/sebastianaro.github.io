@@ -66,15 +66,13 @@ h1, h2 {
   color: #0F5492; }
 
 h3 {
-  font-weight: 600;
+  font-weight: 500;
   font-family: 'Faustina', serif;
-  font-style: normal;
   margin-bottom: 0; }
 
 h4, h5, h6 {
   font-weight: 600;
   font-family: 'Faustina', serif;
-  font-style: normal;
   margin-bottom: 0;
   color: #0F5492;
   letter-spacing: normal; }
@@ -546,10 +544,15 @@ pre {
       .post-content h3 {
         font-size: 19.2px; } }
   .post-content h4 {
-    font-size: 20px; }
+    font-size: 20.8px; }
     @media screen and (max-width: 800px) {
       .post-content h4 {
-        font-size: 20px; } }
+        font-size: 20.8px; } }
+  .post-content h5 {
+    font-size: 16px; }
+    @media screen and (max-width: 800px) {
+      .post-content h5 {
+        font-size: 16px; } }
 
 /**
  * Syntax highlighting styles
