@@ -81,13 +81,16 @@ h4, h5, h6 {
  * Links
  */
 a {
-  color: black;
+  color: #0F5492;
   text-decoration: none; }
   a:visited {
     color: #1756a9; }
   a:hover {
-    color: #111;
+    color: #0F5492;
     text-decoration: underline; }
+    a:hover p {
+      color: #828282;
+      text-decoration: underline; }
   .social-media-list a:hover {
     text-decoration: none; }
     .social-media-list a:hover .username {
