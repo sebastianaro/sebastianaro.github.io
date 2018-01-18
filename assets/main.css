@@ -453,6 +453,18 @@ pre {
     margin-bottom: 0;
     color: #727272; }
 
+.ghost-button {
+  background: #F4F2F1;
+  border: 1.5px solid #0F5492;
+  display: inline-block;
+  padding: 10px 12px 12px 12px;
+  color: #0F5492; }
+
+.ghost-button:hover, .ghost-button:active {
+  text-decoration: none;
+  background: #0F5492;
+  color: #F4F2F1; }
+
 * {
   box-sizing: border-box; }
 
@@ -509,12 +521,6 @@ pre {
     .abouttext {
       width: 100%;
       padding: 0; } }
-
-.morepro {
-  padding-left: 3px;
-  font-weight: 300;
-  padding-top: 15px;
-  font-size: 16px; }
 
 /**
  * Posts
