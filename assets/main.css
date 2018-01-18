@@ -525,6 +525,14 @@ pre {
 /**
  * Posts
  */
+.project {
+  padding-bottom: 15px;
+  font-size: 36px;
+  line-height: 1; }
+  @media screen and (max-width: 600px) {
+    .project {
+      font-size: 28px; } }
+
 .post-header {
   margin-bottom: 15px; }
 
