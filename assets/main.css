@@ -539,7 +539,7 @@ pre {
 .post-title {
   font-size: 2.5em;
   line-height: 1;
-  padding-top: .75em; }
+  padding-top: 0.75em; }
   @media screen and (max-width: 600px) {
     .post-title {
       font-size: 1.75em; } }
