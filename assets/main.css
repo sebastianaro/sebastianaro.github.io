@@ -11,9 +11,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 1em/1.6 "univia-pro", sans-serif;
+  font: 300 1em/1.6 "proxima-nova", sans-serif;
   color: #424242;
-  background-color: #F4F2F1;
+  background-color: #E6E6E4;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 0;
   -moz-font-feature-settings: "kern" 0;
@@ -52,7 +52,7 @@ figcaption {
  */
 ul, ol {
   margin-left: 30px;
-  font: "univia-pro", sans-serif; }
+  font: "proxima-nova", sans-serif; }
 
 li > ul,
 li > ol {
@@ -247,7 +247,71 @@ pre {
 }*/
 .site-nav {
   float: right;
-  line-height: 3.2em; }
+  line-height: 3.2em;
+  /**@include media-query($on-palm) {
+    position: absolute;
+    top: 7.5px;
+    right: $spacing-unit / 2;
+    background-color: #DDDDDD;
+    //border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
+
+    label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
+      cursor: pointer;
+    }
+
+    .menu-icon {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 26px;
+      line-height: 0;
+      padding-top: 10px;
+      text-align: center;
+
+      > svg path {
+        fill: $grey-color-dark;
+      }
+    }
+
+    input ~ .trigger {
+      
+      clear: both;
+      display: none;
+        
+    }
+
+    input:checked ~ .trigger {
+         
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+      .page-linkcurrent {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
+  } */ }
   @media screen and (max-width: 600px) {
     .site-nav {
       margin-top: 11px; } }
@@ -256,7 +320,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #0F5492;
+    color: #0089F2;
     line-height: 1.6; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -271,49 +335,6 @@ pre {
     @media screen and (max-width: 600px) {
       .site-nav .trigger {
         padding: 0; } }
-  @media screen and (max-width: 600px) {
-    .site-nav {
-      position: absolute;
-      top: 7.5px;
-      right: 15px;
-      background-color: #DDDDDD;
-      border-radius: 5px;
-      text-align: right; }
-      .site-nav label[for="nav-trigger"] {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 36px;
-        z-index: 2;
-        cursor: pointer; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg path {
-          fill: #424242; }
-      .site-nav input ~ .trigger {
-        clear: both;
-        display: none; }
-      .site-nav input:checked ~ .trigger {
-        display: block;
-        padding-bottom: 5px; }
-      .site-nav .page-link {
-        display: block;
-        padding: 5px 10px;
-        margin-left: 20px; }
-        .site-nav .page-link:not(:last-child) {
-          margin-right: 0; }
-      .site-nav .page-linkcurrent {
-        display: block;
-        padding: 5px 10px;
-        margin-left: 20px; }
-        .site-nav .page-linkcurrent:not(:last-child) {
-          margin-right: 0; } }
 
 /**
  * Site footer
@@ -377,18 +398,24 @@ pre {
   font-size: 1.25em; }
 
 .page-home {
-  padding-top: 5%;
-  font-weight: 600;
-  line-height: 0.95;
+  padding-top: 15%;
+  padding-left: 10%;
+  padding-bottom: 15%;
+  font-weight: 500;
+  line-height: 1.25;
   font-kerning: normal;
-  color: #0F5492;
-  font-family: 'univia-pro', sans-serif;
+  color: #0089F2;
+  font-family: 'alverata', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   font-style: normal;
-  font-size: 6em; }
+  font-size: 3em; }
   @media screen and (max-width: 600px) {
     .page-home {
-      padding-top: 10%;
-      font-size: 3.5em; } }
+      padding-top: 30%;
+      padding-left: 0;
+      padding-bottom: 20%;
+      font-size: 1.5em; } }
 
 .page-second {
   padding-left: 0;
@@ -399,7 +426,7 @@ pre {
   line-height: 1.50;
   font-kerning: normal;
   color: #838383;
-  font-family: 'Merriweather', serif;
+  font-family: 'proxima-nova', serif;
   font-size: 1.50em; }
   @media screen and (max-width: 800px) {
     .page-second {
@@ -431,7 +458,7 @@ pre {
 .post-link {
   display: block;
   font-size: 1.5em;
-  font-family: 'Merriweather', serif; }
+  font-family: '', serif; }
 
 /**
  * Page navigation
@@ -482,7 +509,7 @@ pre {
   padding-bottom: 2em;
   padding-left: 0;
   text-align: left;
-  font-family: 'Merriweather', serif;
+  font-family: 'proxima-nova', serif;
   font-weight: 300;
   color: #0F5492; }
   .desc p {
@@ -523,15 +550,10 @@ pre {
  * Grid for Homepage projects
  */
 .container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 100% 100%;
-  grid-column-gap: 2.5%; }
+  display: grid; }
   @media screen and (max-width: 600px) {
     .container {
-      display: grid;
-      grid-template-columns: 1fr;
-      grid-template-rows: 100%; } }
+      display: grid; } }
 
 /**
  * about page
@@ -596,12 +618,12 @@ pre {
 
 .post-contenido {
   margin-bottom: 30px;
-  font-family: 'Merriweather', serif;
+  font-family: 'proxima-nova', serif;
   font-weight: 400; }
 
 .post-content {
   margin-bottom: 30px;
-  font-family: 'Merriweather', serif;
+  font-family: 'proxima-nova', serif;
   font-weight: 400; }
   .post-content p {
     padding-right: 40%; }
